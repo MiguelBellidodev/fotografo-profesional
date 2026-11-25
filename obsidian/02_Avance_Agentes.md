@@ -1,9 +1,7 @@
-# Bitácora de Avance: Fotografo Profesional
+# Avance de Agentes: Alejandro Silva Studio
 
-- [ ] Relevamiento y Documento Funcional (DEF) en Obsidian (00_DEF.md) (Agente: valeria)
-- [ ] Diseño UI/UX, tokens visuales y arquitectura responsive mobile-first (Agente: tomas)
-- [ ] Desarrollo Frontend React 19 + Tailwind y micro-interacciones (Agente: lucas)
-- [ ] Arquitectura de base de datos y endpoints API REST transaccionales (Agente: mateo)
-- [ ] Scaffolding GitHub y pipeline de despliegue continuo en Vercel (Agente: sofia)
-- [ ] Auditoría AppSec y validación de seguridad HTTPS (Agente: martina)
-- [ ] Testing E2E Playwright y certificación de entrega (Agente: joaquin)
+- **Valeria (PO):** Especificación funcional y copies integrados 100% fieles al prompt del cliente.
+- **Lucas (Frontend):** Construcción de landing page completa con pantalla de carga, Bento grid, video limpio y lightbox.
+- **Tomás (UI/UX):** Armonización de Instrument Serif e Inter, paleta Dark Absoluta y gradiente de acento.
+- **Sofía (DevOps):** Scaffolding y despliegue en Vercel y GitHub.
+- **Joaquín (QA):** Validación de cero errores de consola, enlaces mailto funcionales y responsive 375px-1440px.
